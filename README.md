@@ -1,8 +1,7 @@
 ---
-twitter: @Charles_APB
+twitter: v@Charles_APB
 info: Built using WebGL and FamousJS
 ---
-=======
 
 ## Getting started
 
