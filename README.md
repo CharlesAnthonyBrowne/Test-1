@@ -52,7 +52,7 @@ In `App.js` we'll pass down some extra data for each of our OBJs.
                     geometry: 'lid',
                     baseColor: 'silver',
                     glossiness: 15,
-                    glossColor: '#444'              
+                    glossColor: '#444'
                 }
             ]
         }
@@ -155,3 +155,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+=======
