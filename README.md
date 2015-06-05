@@ -1,5 +1,5 @@
 ---
-twitter: v@Charles_APB
+twitter: Follow or tweet me @Charles_APB
 info: Built using WebGL and FamousJS
 ---
 
