@@ -1,8 +1,8 @@
 {
-  "name": "lesson-mixed-mode-starter-kit",
+  "name": "WebGL-Test-05-06-15",
   "version": "1.0.0",
-  "repo": "https://github.com/Famous/lesson-mixed-mode-starter-kit/",
-  "description": "seed project for a browserified version of the Famous Ennge",
+  "repo": "https://github.com/CharlesAnthonyBrowne/WebGL-Test-05-06-15",
+  "description": "Test experiment using FamousJS JavaScript library and WebGL",
   "browser": "src/index.js",
   "scripts": {
     "build": "browserify src/index.js -g uglifyify | uglifyjs --screw-ie8 -m -c dead_code,sequences,conditionals,booleans,unused,if_return,join_vars,drop_debugger > public/bundle.js",
